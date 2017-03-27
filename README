@@ -1,0 +1,14 @@
+	atqh - COPYRIGHT (c) Tom Broadhurst - 2015
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY, to the extent permitted by law; without
+ even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+ PARTICULAR PURPOSE.
+
+ This program reads areas that are not available to regular users.
+
+ By design, only root is allowed to successfully run this program.
+
+ Regular users can run this program via 'sudo'.
+
+
