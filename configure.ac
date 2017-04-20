@@ -1,4 +1,4 @@
-AC_INIT([atqh], [1.0.1], [bugs@xpwdle.com])
+AC_INIT([atqh], [1.0.0], [bugs@xpwdle.com])
 AM_INIT_AUTOMAKE([-Wall -Werror])
 AC_PROG_CC
 AC_CONFIG_HEADERS([config.h])
